@@ -1,0 +1,13 @@
+nome = ("Digite seu nome Completo")
+vetor_nome = nome.split("  ")
+
+nomepai = ("Digite o nome completo do seu pai")
+vetor_nomemae = nomemae.split (" ")
+
+nomemae = ("Digite o nome Completo da sua mãe")
+vetor_nomepai = nomepai.split (" ")
+
+
+print ("Primeiro nome: ", vetor_nome [0])
+print ("Sobrenome mãe: ", vetor_nome [-1])
+print ("Sobrenome pai: ", vetor_nome [-1])
